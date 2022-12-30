@@ -1,0 +1,3 @@
+public Class 하이{
+	System.out.print("TQ");
+}
